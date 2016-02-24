@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Soal</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="btn_next">NEXT</string>
+    <string name="title_activity_score_final">Score Final</string>
+    <string name="txt_score">Your Score</string>
+    <string name="btn_new">NEW</string>
+    <string name="title_activity_login">Login</string>
+    <string name="lbl_username">Username</string>
+    <string name="lbl_password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="title_activity_tipe_soal">Posisi</string>
+    <string name="lbl_posisi">Posisi yang diinginkan</string>
+    <string name="btn_programmer">Programmer</string>
+    <string name="btn_ba">Business Analyst</string>
+    <string name="btn_qc">Quality Control</string>
+    <string name="btn_sa">System Analyst</string>
+    <string name="btn_close">Close</string>
+</resources>
